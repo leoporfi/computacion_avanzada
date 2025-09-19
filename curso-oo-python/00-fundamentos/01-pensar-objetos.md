@@ -55,4 +55,6 @@
 ### 🎨 **Versión creativa para pegar en el aula**
 > **“Cada historia es un rompecabezas de objetos. Tu misión: sacar las piezas sin que Don Luca pierda la cuenta otra vez”**.
 
+![alt text](diagrama.png)
+
 *(La semana que viene transformaremos esas piezas en código Python real.)*
